@@ -50,5 +50,5 @@ My first public automation case studies are currently in development. They will 
 I'm interested in exchanging ideas about AI automation, LLM workflows and practical business applications.
 
 <p align="center">
-  <a href="https://github.com/lucanoelw">github.com/lucanoelw</a>
+  <a href="https://github.com/kyvoro">github.com/kyvoro</a>
 </p>
